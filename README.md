@@ -2,8 +2,8 @@ This project focuses on scraping and analyzing reviews for the iPhone 11 from Fl
 
 The review scraper will provide the following outputs:
 
-Number of reviews scraped from Flipkart
-Distribution of sentiment (positive, negative, neutral)
-Word cloud representing the most frequently mentioned words in the reviews
-Sentiment analysis summary (percentage of positive, negative, and neutral reviews)
+Number of reviews scraped from Flipkart.
+Distribution of sentiment (positive, negative, neutral).
+Word cloud representing the most frequently mentioned words in the reviews.
+Sentiment analysis summary (percentage of positive, negative, and neutral reviews).
 These results will help gain insights into the overall perception of the iPhone 11 among users on Flipkart and identify any common positive or negative aspects of the product specific to this platform.
